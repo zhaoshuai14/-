@@ -13,7 +13,7 @@ git账号名称：zhaoshuai14
 
 SM3项目链接：https://github.com/zhaoshuai14/SM3
 
-ZKP零知识证明项目链接：git@github.com:zhaoshuai14/ZKP-.git
+ZKP零知识证明项目链接：https://github.com/zhaoshuai14/ZKP-
 
 存在问题项目：ZKP零知识证明       问题：代码部分
 
