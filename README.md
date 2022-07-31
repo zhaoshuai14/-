@@ -11,6 +11,10 @@ git账号名称：zhaoshuai14
 
 已完成项目：SM3、ZKP零知识证明（部分完成）
 
+SM3项目链接：git@github.com:zhaoshuai14/SM3.git
+
+ZKP零知识证明项目链接：
+
 存在问题项目：ZKP零知识证明       问题：代码部分
 
 未完成项目：SM2、bitcon、cryptanalyses
